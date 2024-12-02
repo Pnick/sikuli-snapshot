@@ -1,6 +1,5 @@
-[![RaiMan's Stuff](https://raw.github.com/RaiMan/SikuliX-2014-Docs/master/src/main/resources/docs/source/RaiManStuff64.png)](http://sikulix.com) SikuliX
-============
+SikuliX Java API
+===
 
-This is the README in the **release branch** (used to publish stable versions).
+The Java implementation comprising the API to access the top elements (Screen, Region, Pattern, Match, Image, ...) and their methods allowing to search for images and to act on points and matches simulating mouse and keyboard.
 
-**[Valid information you can find in the README of branch master](https://github.com/RaiMan/SikuliX1/blob/master/README.md)**
